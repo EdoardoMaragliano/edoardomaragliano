@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**EdoardoMaragliano/edoardomaragliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 BSc and MSc in Physics @ University of Genova  
+- 📚 PhD Student in Cosmology @ University of Genova  
+- 🛰️ Member of the ESA **Euclid Collaboration**  
+- 🤖 Interested in ML and AI  
+- 🥁 **Fun fact:** I’m a drummer, trained in Orchestral Percussion - but mostly playing pop and rock! 
 
-Here are some ideas to get you started:
+📫 Contact: edoardo.maragliano@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,python,cpp" />
+  </a>
+</p>
