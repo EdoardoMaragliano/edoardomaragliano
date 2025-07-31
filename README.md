@@ -9,7 +9,8 @@
 📫 Contact: edoardo.maragliano@gmail.com
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,python,cpp,linkedin" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,python,cpp" />
+  <a href="https://www.linkedin.com/in/edoardo-maragliano/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
