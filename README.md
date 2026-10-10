@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎓 BSc and MSc in Physics @ University of Genova  
+- 🎓 MSc in Physics
 - 📚 PhD Student in Cosmology @ University of Genova  
 - 🛰️ Member of the ESA **Euclid Collaboration**  
 - 🤖 Interested in ML and AI  
